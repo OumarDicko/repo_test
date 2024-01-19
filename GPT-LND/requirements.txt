@@ -1,0 +1,6 @@
+openai
+grpcio
+google-generativeai
+langchain
+faiss-cpu
+tiktoken
